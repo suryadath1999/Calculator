@@ -1,4 +1,4 @@
-# online_shop_app
+# calculator
 
 A new Flutter project.
 
